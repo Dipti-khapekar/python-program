@@ -1,0 +1,1 @@
+print("government polytecnic for girls college,surat")
